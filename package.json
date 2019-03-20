@@ -1,0 +1,30 @@
+{
+    "name": "marinas-backpack",
+    "displayName": "Marina's Backpack",
+    "description": "Useful extensions for your dev environment!",
+    "version": "2.0.0",
+    "publisher": "marinamcgrath",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "CoenraadS.bracket-pair-colorizer",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "sozercan.slack",
+        "aaron-bond.better-comments",
+        "anseki.vscode-color",
+        "dbaeumer.vscode-eslint",
+        "johnpapa.winteriscoming",
+        "shyykoserhiy.vscode-spotify",
+        "ms-python.python"
+    ],
+    "icon": "backpack.png",
+    "galleryBanner": {
+        "color": "#4EAEAD",
+        "theme": "dark"
+    }
+}
